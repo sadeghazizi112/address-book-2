@@ -1,0 +1,13 @@
+/* #contact {
+  display: none;
+} */
+
+#contact {
+
+  border-style: solid;
+  border-width: 3px;
+  width: 120px;
+  length: 150px;
+  border-radius: 5px;
+
+}
